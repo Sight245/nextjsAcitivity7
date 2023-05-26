@@ -1,4 +1,4 @@
-# update_phython_django_with_scrumboard
-### ALDRIN C. ABILAR
-### PYTHON using django
-####activity 7-8
+### Activity 7 - 8
+### John Hendrix Gallana
+
+
